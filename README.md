@@ -1,4 +1,4 @@
-# [Expense Tracker](https://roadmap.sh/projects/github-user-activity)
+# [Expense Tracker](https://roadmap.sh/projects/expense-tracker)
 ### A backend project idea from [roadmap](https://roadmap.sh/)
 ##### This is my solution for the [Expense Tracker](https://roadmap.sh/projects/github-user-activity)  backend challenge.
 [![](https://avatars.githubusercontent.com/u/120650344?s=40&v=4)](https://roadmap.sh/)
